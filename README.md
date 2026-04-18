@@ -20,7 +20,7 @@ A simple and responsive weather application that shows real-time weather data us
 ![Night](night.png)
 
 ## 🔗 Live Demo
-(Add link if deployed)
+https://shaliniuniyal90.github.io/weather-app
 
 ## 📌 Author
 Shalini Uniyal
