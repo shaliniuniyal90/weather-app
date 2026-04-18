@@ -1,2 +1,25 @@
-# weather-app
-A modern weather app built with HTML, CSS, and JavaScript that provides real-time weather data, 5-day forecast, and dynamic UI themes.
+# 🌦️ Weather App
+
+A simple and responsive weather application that shows real-time weather data using OpenWeather API.
+
+## 🚀 Features
+- Search any city
+- Real-time temperature & weather condition
+- 5-day forecast
+- Dynamic background (day/night/rain)
+- Responsive UI
+
+## 🛠️ Tech Stack
+- HTML
+- CSS
+- JavaScript
+- OpenWeather API
+
+## 📸 Screenshots
+(Add your project screenshots here)
+
+## 🔗 Live Demo
+(Add link if deployed)
+
+## 📌 Author
+Shalini Uniyal
