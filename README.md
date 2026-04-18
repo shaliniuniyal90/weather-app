@@ -16,7 +16,8 @@ A simple and responsive weather application that shows real-time weather data us
 - OpenWeather API
 
 ## 📸 Screenshots
-(Add your project screenshots here)
+![Day](day.png)
+![Night](night.png)
 
 ## 🔗 Live Demo
 (Add link if deployed)
